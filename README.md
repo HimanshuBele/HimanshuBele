@@ -78,7 +78,17 @@ Developed a web-based online chicken delivery platform with product browsing, or
 <a href="https://github.com/HimanshuBele/Fleesch">Fleesch</a>
 
 ---
+---
 
+### 💬 Real-Time Chat Application
+> **Tech Stack:** Node.js • Express.js • Socket.IO • MongoDB
+
+Built a real-time chat application that enables users to send and receive messages instantly. Implemented WebSocket communication with Socket.IO and used MongoDB for storing user and chat data.
+
+🔗 **Repository:**  
+https://github.com/HimanshuBele/chat-app
+
+---
 # 📊 GitHub Stats
 
 <p align="center">
